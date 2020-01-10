@@ -2,11 +2,11 @@
 
 Pour commencer, on fait le point sur vos situations personnelles : êtes vous bien préparés, et dans les meilleures conditions possibles pour suivre la formation ? Je vais vous demander de remplir ce formulaire :
 
-:studio_microphone:  https://www.google.com/url?q=https://forms.gle/5U3Nf3YvDkT8gcPu6&sa=D&ust=1576746504247000&usg=AFQjCNFElfptxwUK1oUp5BbyKl1gKAKqow
+:studio_microphone:  https://forms.gle/bascfLTCRmSpZCmFA
 
 Quand ça, c’est fait, *Repos !* :sleeping:
 
-Cette saison je vous ai rappelé ô combien la formation est intense. C'est imparable, il faudra parfois bosser le soir et prendre un peu de temps le week-end pour bûcher, s'exercer, découvrir de nouvelles choses ou approfondir les notions qu'on a vu ensemble.
+Cette saison, je vous ai rappelé ô combien la formation est intense. C'est imparable, il faudra parfois bosser le soir et prendre un peu de temps le week-end pour bûcher, s'exercer, découvrir de nouvelles choses ou approfondir les notions qu'on a vu ensemble.
 
 Mais je ne saurais conclure ce Chemin vers le Cockpit sans insister également sur l'importance de prendre soin de soi pendant la formation. 5 mois, c'est court vous verrez. Mais 5 mois, c'est également très long, surtout si on commence à veiller tard le soir parce qu'on veut absolument finir un challenge et qu'on accumule le manque de sommeil. Pour votre motivation, mais également pour l'efficacité de votre cerveau, c'est important de rester en forme. Qui dort dîne, paraît-il. En tout cas, qui dort apprend, ça c'est certain.
 
