@@ -37,8 +37,7 @@ Défis :
 - :warning: s'assurer de bien avoir accepté les invitations aux organisations O-clock-Dungeons et O-clock-Alumni
 - suivre le tuto HTML pour faire ses premiers pas dans l'univers du code
 
-### [Google Drive](https://github.com/O-clock-Dungeons/Recap/blob/master/S00/google_drive
-.md)
+### [Google Drive](https://github.com/O-clock-Dungeons/Recap/blob/master/S00/google_drive.md)
 Défis :
 - participer au fichier de la promo en y mettant ses informations
 - :warning: vérifier qu'on a bien la possibilité d'accéder au Drive
