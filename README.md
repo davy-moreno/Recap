@@ -10,59 +10,60 @@ Défis :
 - :warning: créer des comptes sur Github, Google Drive et le Discord O'clock puis remplir le formulaire "C'est quoi ton pseudo"
 - :warning: une fois les invitations reçues et acceptées, aller sur le présent Récap pour prendre connaissance de la suite
 
-### [Slack promo et Slack Pro](https://github.com/O-clock-crusoe/Recap/blob/master/S00/e02.md)
+### [Slack promo et Slack Pro](https://github.com/O-clock-Dungeons/Recap/blob/master/S00/slack.md)
 Défis : 
-- :warning: découvrir davantage le slack Crusoé (pour le travail, réservé à la promo)
+- :warning: découvrir davantage le slack Dungeons (pour le travail, réservé à la promo)
 - maîtriser les détails de l'outil slack
 - :warning: rejoindre le slack pro (pour préparer l'après-formation, les certifications, la recherche d'emploi etc)
 
-### [Le Discord O'clock](https://github.com/O-clock-crusoe/Recap/blob/master/S00/discord.md)
+### [Le Discord O'clock](https://github.com/O-clock-Dungeons/Recap/blob/master/S00/discord.md)
 Défi :
 - :warning: obtenir les droits d'étudiant O'clock en faisant la manip proposée
 
-### [Algoblocs](https://github.com/O-clock-crusoe/Recap/blob/master/S00/e03.md)
+### [Algoblocs](https://github.com/O-clock-Dungeons/Recap/blob/master/S00/algoblocs.md)
 Défis :
 - essayer d'aller le plus loin possible
 - aider ou recevoir de l'aide sur le slack de la promo, channel #entraide
 
-### [Checklist et SAV](https://github.com/O-clock-crusoe/Recap/blob/master/S00/e04.md)
+### [Checklist et SAV](https://github.com/O-clock-Dungeons/Recap/blob/master/S00/checklist_et_sav.md)
 Défis :
 - :warning: installer et configurer son téléporteur dès que possible
 - :warning: remplir la checklist pour détecter tout souci technique
-- et en cas de pépin, décrire son problème sur #sav dans le slack Crusoe
+- et en cas de pépin, décrire son problème sur #sav dans le slack Dungeons
 - venir tester le cockpit sur un des créneaux proposés le 27/12 ou le 03/01
 
-### [Github & Tuto HTML](https://github.com/O-clock-crusoe/Recap/blob/master/S00/e05.md)
+### [Github & Tuto HTML](https://github.com/O-clock-Dungeons/Recap/blob/master/S00/github.md)
 Défis :
-- :warning: s'assurer de bien avoir accepté les invitations aux organisations O-clock-Crusoe et O-clock-Alumni
+- :warning: s'assurer de bien avoir accepté les invitations aux organisations O-clock-Dungeons et O-clock-Alumni
 - suivre le tuto HTML pour faire ses premiers pas dans l'univers du code
 
-### [Google Drive](https://github.com/O-clock-crusoe/Recap/blob/master/S00/e06.md)
+### [Google Drive](https://github.com/O-clock-Dungeons/Recap/blob/master/S00/google_drive
+.md)
 Défis :
 - participer au fichier de la promo en y mettant ses informations
 - :warning: vérifier qu'on a bien la possibilité d'accéder au Drive
 
-### [Entraînement physique et mental](https://github.com/O-clock-crusoe/Recap/blob/master/S00/e08.md)
+### [Entraînement physique et mental](https://github.com/O-clock-Dungeons/Recap/blob/master/S00/petits_jeux.md)
 Défi :
 - découvrir les petits jeux proposés
 
-### [Twitter et veille technique](https://github.com/O-clock-crusoe/Recap/blob/master/S00/e09.md)
+### [Twitter et veille technique](https://github.com/O-clock-Dungeons/Recap/blob/master/S00/veille_technologique.md)
 Défis :
 - se créer un compte Twitter
 - identifier des comptes pertinents à suivre pour effectuer une veille technologique
 
-### [Qualité web avec Opquast](https://github.com/O-clock-crusoe/Recap/blob/master/S00/opquast.md)
+### [Qualité web avec Opquast](https://github.com/O-clock-Dungeons/Recap/blob/master/S00/opquast.md)
 Défi :
 - se connecter à la plateforme et suivre le petit parcours/test
 
-### [S'organiser avec start.me](https://github.com/O-clock-crusoe/Recap/blob/master/S00/start_me.md)
+### [S'organiser avec start.me](https://github.com/O-clock-Dungeons/Recap/blob/master/S00/start_me.md)
 Défi :
 - se créer une page start.me et y mettre les liens utiles
 
-### [Présentations et petites lectures](https://github.com/O-clock-crusoe/Recap/blob/master/S00/presentations.md)
+### [Présentations et petites lectures](https://github.com/O-clock-Dungeons/Recap/blob/master/S00/presentations.md)
 Défi :
 - juste lire !
 
-### [E10 - On fait le point !](https://github.com/O-clock-crusoe/Recap/blob/master/S00/e10.md)
+### [E10 - On fait le point !](https://github.com/O-clock-Dungeons/Recap/blob/master/S00/petit_point.md)
 Défi :
 - :warning: remplir le formulaire à la fin de la saison 00 (le vendredi 24/01) pour faire le point sur votre situation personnelle
